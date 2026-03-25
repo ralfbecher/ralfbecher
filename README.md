@@ -25,6 +25,19 @@ Founder & Head of R&D at [RalfOrion](https://ralforion.com), based in Veli Losin
 [![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)](https://neo4j.com/)
 [![Qlik](https://img.shields.io/badge/Qlik-009848?style=for-the-badge&logo=qlik&logoColor=white)](https://www.qlik.com/)
 
+[![Agentic AI](https://img.shields.io/badge/Agentic_AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white)](#)
+[![Semantic Layer](https://img.shields.io/badge/Semantic_Layer-8A2BE2?style=for-the-badge&logo=graphql&logoColor=white)](#)
+
+---
+
+## Featured Projects
+
+### [OrionBelt Analytics](https://github.com/ralfbecher/orionbelt-analytics)
+Ontology-driven analytics platform — transforming how data is modeled, explored, and understood through knowledge graphs and semantic reasoning.
+
+### [OrionBelt Semantic Layer](https://github.com/ralfbecher/orionbelt-semantic-layer)
+A universal semantic layer that bridges the gap between raw data and business meaning, enabling consistent metrics and definitions across tools and teams.
+
 ---
 
 ## Let's Connect
