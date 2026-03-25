@@ -6,7 +6,7 @@ Founder & Head of R&D at [RALFORION](https://ralforion.com), based in Veli Loši
 
 ## 🚀 About Me
 
-- Building [OrionBelt](https://github.com/ralfbecher/orionbelt-ontology-builder) — an ontology-based analytics platform
+- Building [OrionBelt Analytics](https://github.com/ralfbecher/orionbelt-analytics) — an ontology-based analytics platform
 - Passionate about semantic data modeling, knowledge graphs, and BI architecture
 - Long-time contributor to the Qlik community with extensions and open-source tools
 - Arctic Code Vault Contributor
@@ -50,6 +50,10 @@ Ontology-driven analytics platform for AI agents — transforming how data is mo
 ### [OrionBelt Semantic Layer](https://github.com/ralfbecher/orionbelt-semantic-layer)
 
 A universal semantic layer that bridges the gap between raw data and business meaning, enabling consistent metrics and definitions across tools and teams, designed with an API-first approach for agentic AI.
+
+### [OrionBelt Ontology Builder](https://github.com/ralfbecher/orionbelt-ontology-builder)
+
+A Streamlit-based application for building, editing, and managing OWL ontologies — providing a visual interface to define classes, properties, and relationships for semantic data models.
 
 ---
 
