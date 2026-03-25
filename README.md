@@ -45,11 +45,11 @@ Founder & Head of R&D at [RALFORION](https://ralforion.com), based in Veli Loši
 
 ### [OrionBelt Analytics](https://github.com/ralfbecher/orionbelt-analytics)
 
-Ontology-driven analytics platform — transforming how data is modeled, explored, and understood through knowledge graphs and semantic reasoning.
+Ontology-driven analytics platform for AI agents — transforming how data is modeled, explored, and understood through knowledge graphs and semantic reasoning.
 
 ### [OrionBelt Semantic Layer](https://github.com/ralfbecher/orionbelt-semantic-layer)
 
-A universal semantic layer that bridges the gap between raw data and business meaning, enabling consistent metrics and definitions across tools and teams.
+A universal semantic layer that bridges the gap between raw data and business meaning, enabling consistent metrics and definitions across tools and teams, designed with an API-first approach for agentic AI.
 
 ---
 
