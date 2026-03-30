@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ralfo — I moved to a Croatian island to build data platforms in peace. The SQL followed me anyway.
+## 👋 Hi, I'm Ralfo — I moved to a Croatian island to build data platforms in peace. The SQL followed me anyway.
 
 Founder & Head of R&D at [RALFORION](https://ralforion.com). Building semantic layers and ontology-driven analytics — so AI stops guessing your GROUP BY.
 
