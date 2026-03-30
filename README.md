@@ -1,26 +1,30 @@
-# 👋 Hi, I'm Ralf Becher
+# 👋 Hi, I'm Ralfo — I moved to a Croatian island to build data platforms in peace. The SQL followed me anyway.
 
-Founder & Head of R&D at [RALFORION](https://ralforion.com), based in Veli Lošinj, Croatia. I build intelligent data platforms that combine ontology-driven analytics with modern semantic layer technology.
+Founder & Head of R&D at [RALFORION](https://ralforion.com). Building semantic layers and ontology-driven analytics — so AI stops guessing your GROUP BY.
 
 ---
 
 ## 🚀 About Me
 
-- Building [OrionBelt Analytics](https://github.com/ralfbecher/orionbelt-analytics) — an ontology-based analytics platform
-- Passionate about semantic data modeling, knowledge graphs, and BI architecture
-- Long-time contributor to the Qlik community with extensions and open-source tools
-- Arctic Code Vault Contributor
+- Building [OrionBelt Semantic Layer](https://github.com/ralfbecher/orionbelt-semantic-layer), [OrionBelt Analytics](https://github.com/ralfbecher/orionbelt-analytics) & [OrionBelt Ontology Builder](https://github.com/ralfbecher/orionbelt-semantic-layer) — because data deserves better than copy-pasted SQL
+- Semantic data modeling, knowledge graphs, and BI architecture — the stuff that makes dashboards and Agentic AI actually trustworthy
+- Longtime Qlik community contributor — extensions, open-source tools, and opinions nobody asked for
+- Longtime Gopher 🐹, now addicted to snakes 🐍
+- Arctic Code Vault Contributor — my code will survive the apocalypse, no pressure
 
 ---
 
 ## 🦾 Technologies & Tools
 
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/Java-ED8B00.svg?logo=openjdk&logoColor=white)](https://openjdk.org)
+
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+
 [![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)](https://neo4j.com/)
 [![Qlik](https://img.shields.io/badge/Qlik-009848?style=for-the-badge&logo=qlik&logoColor=white)](https://www.qlik.com/)
 
