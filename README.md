@@ -86,9 +86,9 @@ A Streamlit-based application for building, editing, and managing OWL ontologies
 
 ## GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ralfbecher&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ralfbecher&layout=compact&theme=dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ralfbecher&theme=dark)
+![GitHub Stats](https://raw.githubusercontent.com/ralfbecher/ralfbecher/output/metrics-base.svg)
+![Languages](https://raw.githubusercontent.com/ralfbecher/ralfbecher/output/metrics-languages.svg)
+![Contribution Calendar](https://raw.githubusercontent.com/ralfbecher/ralfbecher/output/metrics-isocalendar.svg)
 
 ### Contribution Snake
 
