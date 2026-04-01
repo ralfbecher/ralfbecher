@@ -64,7 +64,7 @@ Ontology-driven analytics platform for AI agents — transforming how data is mo
 
 ![Top Language](https://img.shields.io/github/languages/top/ralfbecher/orionbelt-analytics?style=flat-square)
 ![Last Commit](https://img.shields.io/github/last-commit/ralfbecher/orionbelt-analytics?style=flat-square)
-![License](https://img.shields.io/github/license/ralfbecher/orionbelt-analytics?style=flat-square)
+![License](https://img.shields.io/badge/license-BSL%201.1-blue?style=flat-square)
 
 ### [OrionBelt Semantic Layer](https://github.com/ralfbecher/orionbelt-semantic-layer) ![GitHub stars](https://img.shields.io/github/stars/ralfbecher/orionbelt-semantic-layer?style=social)
 
@@ -72,7 +72,7 @@ A universal semantic layer that bridges the gap between raw data and business me
 
 ![Top Language](https://img.shields.io/github/languages/top/ralfbecher/orionbelt-semantic-layer?style=flat-square)
 ![Last Commit](https://img.shields.io/github/last-commit/ralfbecher/orionbelt-semantic-layer?style=flat-square)
-![License](https://img.shields.io/github/license/ralfbecher/orionbelt-semantic-layer?style=flat-square)
+![License](https://img.shields.io/badge/license-BSL%201.1-blue?style=flat-square)
 
 ### [OrionBelt Ontology Builder](https://github.com/ralfbecher/orionbelt-ontology-builder) ![GitHub stars](https://img.shields.io/github/stars/ralfbecher/orionbelt-ontology-builder?style=social)
 
@@ -80,7 +80,7 @@ A Streamlit-based application for building, editing, and managing OWL ontologies
 
 ![Top Language](https://img.shields.io/github/languages/top/ralfbecher/orionbelt-ontology-builder?style=flat-square)
 ![Last Commit](https://img.shields.io/github/last-commit/ralfbecher/orionbelt-ontology-builder?style=flat-square)
-![License](https://img.shields.io/github/license/ralfbecher/orionbelt-ontology-builder?style=flat-square)
+![License](https://img.shields.io/badge/license-BSL%201.1-blue?style=flat-square)
 
 ---
 
