@@ -58,29 +58,23 @@ Founder & Head of R&D at [RALFORION](https://ralforion.com). Building semantic l
 
 ## Featured Projects
 
-### [OrionBelt Analytics](https://github.com/ralfbecher/orionbelt-analytics) ![Version](https://img.shields.io/github/v/tag/ralfbecher/orionbelt-analytics?label=version&style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/ralfbecher/orionbelt-analytics?style=social)
+### [OrionBelt Analytics](https://github.com/ralfbecher/orionbelt-analytics)
 
 Ontology-driven analytics platform for AI agents — transforming how data is modeled, explored, and understood through knowledge graphs and semantic reasoning.
 
-![Top Language](https://img.shields.io/github/languages/top/ralfbecher/orionbelt-analytics?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/ralfbecher/orionbelt-analytics?style=flat-square)
-![License](https://img.shields.io/badge/license-BSL%201.1-blue?style=flat-square)
+![Version](https://img.shields.io/github/v/tag/ralfbecher/orionbelt-analytics?label=version&style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/ralfbecher/orionbelt-analytics?style=flat-square) ![Top Language](https://img.shields.io/github/languages/top/ralfbecher/orionbelt-analytics?style=flat-square) ![Last Commit](https://img.shields.io/github/last-commit/ralfbecher/orionbelt-analytics?style=flat-square) ![License](https://img.shields.io/badge/license-BSL%201.1-blue?style=flat-square)
 
-### [OrionBelt Semantic Layer](https://github.com/ralfbecher/orionbelt-semantic-layer) ![Version](https://img.shields.io/github/v/tag/ralfbecher/orionbelt-semantic-layer?label=version&style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/ralfbecher/orionbelt-semantic-layer?style=social)
+### [OrionBelt Semantic Layer](https://github.com/ralfbecher/orionbelt-semantic-layer)
 
 A universal semantic layer that bridges the gap between raw data and business meaning, enabling consistent metrics and definitions across tools and teams, designed with an API-first approach for agentic AI.
 
-![Top Language](https://img.shields.io/github/languages/top/ralfbecher/orionbelt-semantic-layer?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/ralfbecher/orionbelt-semantic-layer?style=flat-square)
-![License](https://img.shields.io/badge/license-BSL%201.1-blue?style=flat-square)
+![Version](https://img.shields.io/github/v/tag/ralfbecher/orionbelt-semantic-layer?label=version&style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/ralfbecher/orionbelt-semantic-layer?style=flat-square) ![Top Language](https://img.shields.io/github/languages/top/ralfbecher/orionbelt-semantic-layer?style=flat-square) ![Last Commit](https://img.shields.io/github/last-commit/ralfbecher/orionbelt-semantic-layer?style=flat-square) ![License](https://img.shields.io/badge/license-BSL%201.1-blue?style=flat-square)
 
-### [OrionBelt Ontology Builder](https://github.com/ralfbecher/orionbelt-ontology-builder) ![Version](https://img.shields.io/github/v/tag/ralfbecher/orionbelt-ontology-builder?label=version&style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/ralfbecher/orionbelt-ontology-builder?style=social)
+### [OrionBelt Ontology Builder](https://github.com/ralfbecher/orionbelt-ontology-builder)
 
 A Streamlit-based application for building, editing, and managing OWL ontologies — providing a visual interface to define classes, properties, and relationships for semantic data models.
 
-![Top Language](https://img.shields.io/github/languages/top/ralfbecher/orionbelt-ontology-builder?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/ralfbecher/orionbelt-ontology-builder?style=flat-square)
-![License](https://img.shields.io/badge/license-BSL%201.1-blue?style=flat-square)
+![Version](https://img.shields.io/github/v/tag/ralfbecher/orionbelt-ontology-builder?label=version&style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/ralfbecher/orionbelt-ontology-builder?style=flat-square) ![Top Language](https://img.shields.io/github/languages/top/ralfbecher/orionbelt-ontology-builder?style=flat-square) ![Last Commit](https://img.shields.io/github/last-commit/ralfbecher/orionbelt-ontology-builder?style=flat-square) ![License](https://img.shields.io/badge/license-BSL%201.1-blue?style=flat-square)
 
 ---
 
