@@ -6,12 +6,12 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ralfbecher&color=blueviolet&style=flat-square&label=Profile+Views)
 
-Founder & Head of R&D at [RALFORION](https://ralforion.com). Building semantic layers and ontology-driven analytics — so AI stops guessing your GROUP BY.
+Founder & Head of R&D at [RALFORION](https://ralforion.com). Building OrionBelt, an open-source [**Semantic Sidecar**](https://ralforion.com/semantic-sidecar.html) for [Agentic AI](https://ralforion.com/agentic-ai-data-access.html). So AI stops guessing your GROUP BY.
 
 ---
 
 > [!TIP]
-> **Currently working on:** The [OrionBelt](https://github.com/ralfbecher/orionbelt-analytics) ecosystem — ontology-driven analytics with a universal semantic layer and visual ontology builder, designed for agentic AI workflows. Because data deserves better than copy-pasted SQL.
+> **Currently working on:** The [OrionBelt](https://github.com/ralfbecher/orionbelt-semantic-layer) ecosystem — a [Semantic Sidecar](https://ralforion.com/semantic-sidecar.html) for Agentic AI with ontology generation, [governed text-to-SQL](https://ralforion.com/text-to-sql.html), MCP server, Apache Arrow Flight, and PostgreSQL Wire Protocol. Because data deserves better than copy-pasted SQL.
 
 ---
 
@@ -75,6 +75,27 @@ A universal semantic layer that bridges the gap between raw data and business me
 A Streamlit-based application for building, editing, and managing OWL ontologies — providing a visual interface to define classes, properties, and relationships for semantic data models.
 
 ![Version](https://img.shields.io/github/v/tag/ralfbecher/orionbelt-ontology-builder?label=version&style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/ralfbecher/orionbelt-ontology-builder?style=flat-square) ![Top Language](https://img.shields.io/github/languages/top/ralfbecher/orionbelt-ontology-builder?style=flat-square) ![Last Commit](https://img.shields.io/github/last-commit/ralfbecher/orionbelt-ontology-builder?style=flat-square) ![License](https://img.shields.io/badge/license-BSL%201.1-blue?style=flat-square)
+
+### [OrionBelt Runner](https://github.com/ralfbecher/orionbelt-runner)
+
+Run OBML query batches against the OrionBelt Semantic Layer and emit reports. YAML-defined runs produce self-contained markdown, HTML, or PDF reports with audit-grade YAML run-logs. Built for cron, CI, and scheduled audits.
+
+![GitHub stars](https://img.shields.io/github/stars/ralfbecher/orionbelt-runner?style=flat-square) ![Top Language](https://img.shields.io/github/languages/top/ralfbecher/orionbelt-runner?style=flat-square) ![Last Commit](https://img.shields.io/github/last-commit/ralfbecher/orionbelt-runner?style=flat-square)
+
+### [OrionBelt Chat](https://github.com/ralfbecher/orionbelt-chat)
+
+Conversational AI interface tying the OrionBelt platform together. 300+ models via OpenRouter, Anthropic & OpenAI direct, local LLMs via MLX or Ollama. Dual MCP server support with sampling, inline Plotly charts, and Mermaid diagrams.
+
+![GitHub stars](https://img.shields.io/github/stars/ralfbecher/orionbelt-chat?style=flat-square) ![Top Language](https://img.shields.io/github/languages/top/ralfbecher/orionbelt-chat?style=flat-square) ![Last Commit](https://img.shields.io/github/last-commit/ralfbecher/orionbelt-chat?style=flat-square)
+
+---
+
+## Concepts I Write About
+
+- **[What is a Semantic Sidecar?](https://ralforion.com/semantic-sidecar.html)** — the pattern OrionBelt implements (drop-in governed semantics for AI, analytics, and data systems, no architecture change)
+- **[Agentic AI Data Access](https://ralforion.com/agentic-ai-data-access.html)** — governed, consistent, audit-ready access for AI agents via MCP
+- **[Governed Text-to-SQL](https://ralforion.com/text-to-sql.html)** — fan-trap prevention via ontology, AST, and MCP
+- **[OrionBelt Platform Overview](https://ralforion.com/orionbelt-one-pager.html)** — the complete stack on one page
 
 ---
 
