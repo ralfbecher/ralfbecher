@@ -88,6 +88,12 @@ Conversational AI interface tying the OrionBelt platform together. 300+ models v
 
 ![GitHub stars](badges/orionbelt-chat-stars.svg) ![Top Language](badges/orionbelt-chat-language.svg) ![Last Commit](badges/orionbelt-chat-last-commit.svg)
 
+### [MCP X-Ray](https://github.com/ralfbecher/mcp-xray)
+
+X-ray your MCP server — token tax, tool confusion, and surface bloat, distilled into one graded report.
+
+![Version](badges/mcp-xray-version.svg) ![GitHub stars](badges/mcp-xray-stars.svg) ![Top Language](badges/mcp-xray-language.svg) ![Last Commit](badges/mcp-xray-last-commit.svg) ![License](badges/mcp-xray-license.svg)
+
 ---
 
 ## Concepts I Write About

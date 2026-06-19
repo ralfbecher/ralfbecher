@@ -9,6 +9,7 @@ const projects = [
   { repo: "orionbelt-ontology-builder", version: true, license: "BSL 1.1" },
   { repo: "orionbelt-runner" },
   { repo: "orionbelt-chat" },
+  { repo: "mcp-xray", version: true, license: "BSL 1.1" },
 ];
 
 const colors = {
