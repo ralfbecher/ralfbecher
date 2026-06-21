@@ -1,6 +1,6 @@
 import { mkdir, writeFile } from "node:fs/promises";
 
-const owner = "ralfbecher";
+const owner = "ralforion";
 const outputDir = "badges";
 
 const projects = [
