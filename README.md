@@ -6,18 +6,18 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ralfbecher&color=blueviolet&style=flat-square&label=Profile+Views)
 
-Founder & Head of R&D at [RALFORION](https://ralforion.com). Building OrionBelt, an open-source [**Semantic Sidecar**](https://ralforion.com/semantic-sidecar.html) for [Agentic AI](https://ralforion.com/agentic-ai-data-access.html). So AI stops guessing your GROUP BY.
+Founder & Head of R&D at [RALFORION](https://ralforion.com). Building OrionBelt®, an open-source [**Semantic Sidecar**](https://ralforion.com/semantic-sidecar.html) for [Agentic AI](https://ralforion.com/agentic-ai-data-access.html). So AI stops guessing your GROUP BY.
 
 ---
 
 > [!TIP]
-> **Currently working on:** The [OrionBelt](https://github.com/ralforion/orionbelt-semantic-layer) ecosystem — a [Semantic Sidecar](https://ralforion.com/semantic-sidecar.html) for Agentic AI with ontology generation, [governed text-to-SQL](https://ralforion.com/text-to-sql.html), MCP server, Apache Arrow Flight, and PostgreSQL Wire Protocol. Because data deserves better than copy-pasted SQL.
+> **Currently working on:** The [OrionBelt®](https://github.com/ralforion/orionbelt-semantic-layer) ecosystem — a [Semantic Sidecar](https://ralforion.com/semantic-sidecar.html) for Agentic AI with ontology generation, [governed text-to-SQL](https://ralforion.com/text-to-sql.html), MCP server, Apache Arrow Flight, and PostgreSQL Wire Protocol. Because data deserves better than copy-pasted SQL.
 
 ---
 
 ## 🚀 About Me
 
-- Building [OrionBelt Semantic Layer](https://github.com/ralforion/orionbelt-semantic-layer), [OrionBelt Analytics](https://github.com/ralforion/orionbelt-analytics) & [OrionBelt Ontology Builder](https://github.com/ralforion/orionbelt-ontology-builder) — because data deserves better than copy-pasted SQL
+- Building [OrionBelt® Semantic Layer](https://github.com/ralforion/orionbelt-semantic-layer), [OrionBelt® Analytics](https://github.com/ralforion/orionbelt-analytics) & [OrionBelt® Ontology Builder](https://github.com/ralforion/orionbelt-ontology-builder) — because data deserves better than copy-pasted SQL
 - Semantic data modeling, knowledge graphs, and BI architecture — the stuff that makes dashboards and Agentic AI actually trustworthy
 - Longtime Qlik community contributor — extensions, open-source tools, and opinions nobody asked for
 - Longtime Gopher 🐹, now addicted to snakes 🐍
@@ -58,33 +58,33 @@ Founder & Head of R&D at [RALFORION](https://ralforion.com). Building OrionBelt,
 
 ## Featured Projects
 
-### [OrionBelt Analytics](https://github.com/ralforion/orionbelt-analytics)
+### [OrionBelt® Analytics](https://github.com/ralforion/orionbelt-analytics)
 
 Ontology-driven analytics platform for AI agents — transforming how data is modeled, explored, and understood through knowledge graphs and semantic reasoning.
 
 ![Version](badges/orionbelt-analytics-version.svg) ![GitHub stars](badges/orionbelt-analytics-stars.svg) ![Top Language](badges/orionbelt-analytics-language.svg) ![Last Commit](badges/orionbelt-analytics-last-commit.svg) ![License](badges/orionbelt-analytics-license.svg)
 
-### [OrionBelt Semantic Layer](https://github.com/ralforion/orionbelt-semantic-layer)
+### [OrionBelt® Semantic Layer](https://github.com/ralforion/orionbelt-semantic-layer)
 
 A universal semantic layer that bridges the gap between raw data and business meaning, enabling consistent metrics and definitions across tools and teams, designed with an API-first approach for agentic AI.
 
 ![Version](badges/orionbelt-semantic-layer-version.svg) ![GitHub stars](badges/orionbelt-semantic-layer-stars.svg) ![Top Language](badges/orionbelt-semantic-layer-language.svg) ![Last Commit](badges/orionbelt-semantic-layer-last-commit.svg) ![License](badges/orionbelt-semantic-layer-license.svg)
 
-### [OrionBelt Ontology Builder](https://github.com/ralforion/orionbelt-ontology-builder)
+### [OrionBelt® Ontology Builder](https://github.com/ralforion/orionbelt-ontology-builder)
 
 A Streamlit-based application for building, editing, and managing OWL ontologies — providing a visual interface to define classes, properties, and relationships for semantic data models.
 
 ![Version](badges/orionbelt-ontology-builder-version.svg) ![GitHub stars](badges/orionbelt-ontology-builder-stars.svg) ![Top Language](badges/orionbelt-ontology-builder-language.svg) ![Last Commit](badges/orionbelt-ontology-builder-last-commit.svg) ![License](badges/orionbelt-ontology-builder-license.svg)
 
-### [OrionBelt Runner](https://github.com/ralforion/orionbelt-runner)
+### [OrionBelt® Runner](https://github.com/ralforion/orionbelt-runner)
 
-Run OBML query batches against the OrionBelt Semantic Layer and emit reports. YAML-defined runs produce self-contained markdown, HTML, or PDF reports with audit-grade YAML run-logs. Built for cron, CI, and scheduled audits.
+Run OBML query batches against the OrionBelt® Semantic Layer and emit reports. YAML-defined runs produce self-contained markdown, HTML, or PDF reports with audit-grade YAML run-logs. Built for cron, CI, and scheduled audits.
 
 ![GitHub stars](badges/orionbelt-runner-stars.svg) ![Top Language](badges/orionbelt-runner-language.svg) ![Last Commit](badges/orionbelt-runner-last-commit.svg)
 
-### [OrionBelt Chat](https://github.com/ralforion/orionbelt-chat)
+### [OrionBelt® Chat](https://github.com/ralforion/orionbelt-chat)
 
-Conversational AI interface tying the OrionBelt platform together. 300+ models via OpenRouter, Anthropic & OpenAI direct, local LLMs via MLX or Ollama. Dual MCP server support with sampling, inline Plotly charts, and Mermaid diagrams.
+Conversational AI interface tying the OrionBelt® platform together. 300+ models via OpenRouter, Anthropic & OpenAI direct, local LLMs via MLX or Ollama. Dual MCP server support with sampling, inline Plotly charts, and Mermaid diagrams.
 
 ![GitHub stars](badges/orionbelt-chat-stars.svg) ![Top Language](badges/orionbelt-chat-language.svg) ![Last Commit](badges/orionbelt-chat-last-commit.svg)
 
@@ -98,10 +98,10 @@ X-ray your MCP server — token tax, tool confusion, and surface bloat, distille
 
 ## Concepts I Write About
 
-- **[What is a Semantic Sidecar?](https://ralforion.com/semantic-sidecar.html)** — the pattern OrionBelt implements (drop-in governed semantics for AI, analytics, and data systems, no architecture change)
+- **[What is a Semantic Sidecar?](https://ralforion.com/semantic-sidecar.html)** — the pattern OrionBelt® implements (drop-in governed semantics for AI, analytics, and data systems, no architecture change)
 - **[Agentic AI Data Access](https://ralforion.com/agentic-ai-data-access.html)** — governed, consistent, audit-ready access for AI agents via MCP
 - **[Governed Text-to-SQL](https://ralforion.com/text-to-sql.html)** — fan-trap prevention via ontology, AST, and MCP
-- **[OrionBelt Platform Overview](https://ralforion.com/orionbelt-one-pager.html)** — the complete stack on one page
+- **[OrionBelt® Platform Overview](https://ralforion.com/orionbelt-one-pager.html)** — the complete stack on one page
 
 ---
 
