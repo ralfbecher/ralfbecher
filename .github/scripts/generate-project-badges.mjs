@@ -7,8 +7,8 @@ const projects = [
   { repo: "orionbelt-analytics", version: true, license: "BSL 1.1" },
   { repo: "orionbelt-semantic-layer", version: true, license: "BSL 1.1" },
   { repo: "orionbelt-ontology-builder", version: true, license: "BSL 1.1" },
-  { repo: "orionbelt-runner", version: true },
-  { repo: "orionbelt-chat", version: true },
+  { repo: "orionbelt-runner", version: true, license: "BSL 1.1" },
+  { repo: "orionbelt-chat", version: true, license: "BSL 1.1" },
   { repo: "mcp-xray", version: true, license: "BSL 1.1" },
 ];
 

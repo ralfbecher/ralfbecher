@@ -80,13 +80,13 @@ A Streamlit-based application for building, editing, and managing OWL ontologies
 
 Run OBML query batches against the OrionBelt® Semantic Layer and emit reports. YAML-defined runs produce self-contained markdown, HTML, or PDF reports with audit-grade YAML run-logs. Built for cron, CI, and scheduled audits.
 
-![Version](badges/orionbelt-runner-version.svg) ![GitHub stars](badges/orionbelt-runner-stars.svg) ![Top Language](badges/orionbelt-runner-language.svg) ![Last Commit](badges/orionbelt-runner-last-commit.svg)
+![Version](badges/orionbelt-runner-version.svg) ![GitHub stars](badges/orionbelt-runner-stars.svg) ![Top Language](badges/orionbelt-runner-language.svg) ![Last Commit](badges/orionbelt-runner-last-commit.svg) ![License](badges/orionbelt-runner-license.svg)
 
 ### [OrionBelt® Chat](https://github.com/ralforion/orionbelt-chat)
 
 Conversational AI interface tying the OrionBelt® platform together. 300+ models via OpenRouter, Anthropic & OpenAI direct, local LLMs via MLX or Ollama. Dual MCP server support with sampling, inline Plotly charts, and Mermaid diagrams.
 
-![Version](badges/orionbelt-chat-version.svg) ![GitHub stars](badges/orionbelt-chat-stars.svg) ![Top Language](badges/orionbelt-chat-language.svg) ![Last Commit](badges/orionbelt-chat-last-commit.svg)
+![Version](badges/orionbelt-chat-version.svg) ![GitHub stars](badges/orionbelt-chat-stars.svg) ![Top Language](badges/orionbelt-chat-language.svg) ![Last Commit](badges/orionbelt-chat-last-commit.svg) ![License](badges/orionbelt-chat-license.svg)
 
 ### [MCP X-Ray](https://github.com/ralforion/mcp-xray)
 
