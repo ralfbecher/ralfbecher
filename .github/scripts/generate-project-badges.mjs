@@ -10,6 +10,7 @@ const projects = [
   { repo: "orionbelt-runner", version: true, license: "BSL 1.1" },
   { repo: "orionbelt-chat", version: true, license: "BSL 1.1" },
   { repo: "mcp-xray", version: true, license: "BSL 1.1" },
+  { repo: "qvd2parquet", version: true, license: "Apache 2.0" },
 ];
 
 const colors = {

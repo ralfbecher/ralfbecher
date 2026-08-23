@@ -94,6 +94,12 @@ X-ray your MCP server — token tax, tool confusion, and surface bloat, distille
 
 ![Version](badges/mcp-xray-version.svg) ![GitHub stars](badges/mcp-xray-stars.svg) ![Top Language](badges/mcp-xray-language.svg) ![Last Commit](badges/mcp-xray-last-commit.svg) ![License](badges/mcp-xray-license.svg)
 
+### [qvd2parquet](https://github.com/ralforion/qvd2parquet)
+
+A fast command-line converter from Qlik QVD files to Parquet. Preserves real Parquet types instead of stringifying everything, keeps `MONEY` and `FIX` columns as exact decimals, decodes records in parallel, and streams row groups so large files never need to fit in memory.
+
+![Version](badges/qvd2parquet-version.svg) ![GitHub stars](badges/qvd2parquet-stars.svg) ![Top Language](badges/qvd2parquet-language.svg) ![Last Commit](badges/qvd2parquet-last-commit.svg) ![License](badges/qvd2parquet-license.svg)
+
 ---
 
 ## Concepts I Write About
