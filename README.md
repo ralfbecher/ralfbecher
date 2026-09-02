@@ -62,43 +62,43 @@ Founder & Head of R&D at [RALFORION](https://ralforion.com). Building OrionBelt�
 
 Ontology-driven analytics platform for AI agents — transforming how data is modeled, explored, and understood through knowledge graphs and semantic reasoning.
 
-![Version](badges/orionbelt-analytics-version.svg) ![GitHub stars](badges/orionbelt-analytics-stars.svg) ![Top Language](badges/orionbelt-analytics-language.svg) ![Last Commit](badges/orionbelt-analytics-last-commit.svg) ![License](badges/orionbelt-analytics-license.svg)
+[![Version](badges/orionbelt-analytics-version.svg)](https://github.com/ralforion/orionbelt-analytics/releases) [![GitHub stars](badges/orionbelt-analytics-stars.svg)](https://github.com/ralforion/orionbelt-analytics) [![Top Language](badges/orionbelt-analytics-language.svg)](https://github.com/ralforion/orionbelt-analytics) [![Last Commit](badges/orionbelt-analytics-last-commit.svg)](https://github.com/ralforion/orionbelt-analytics/commits) [![License](badges/orionbelt-analytics-license.svg)](https://github.com/ralforion/orionbelt-analytics/blob/main/LICENSE)
 
 ### [OrionBelt® Semantic Layer](https://github.com/ralforion/orionbelt-semantic-layer)
 
 A universal semantic layer that bridges the gap between raw data and business meaning, enabling consistent metrics and definitions across tools and teams, designed with an API-first approach for agentic AI.
 
-![Version](badges/orionbelt-semantic-layer-version.svg) ![GitHub stars](badges/orionbelt-semantic-layer-stars.svg) ![Top Language](badges/orionbelt-semantic-layer-language.svg) ![Last Commit](badges/orionbelt-semantic-layer-last-commit.svg) ![License](badges/orionbelt-semantic-layer-license.svg)
+[![Version](badges/orionbelt-semantic-layer-version.svg)](https://github.com/ralforion/orionbelt-semantic-layer/releases) [![GitHub stars](badges/orionbelt-semantic-layer-stars.svg)](https://github.com/ralforion/orionbelt-semantic-layer) [![Top Language](badges/orionbelt-semantic-layer-language.svg)](https://github.com/ralforion/orionbelt-semantic-layer) [![Last Commit](badges/orionbelt-semantic-layer-last-commit.svg)](https://github.com/ralforion/orionbelt-semantic-layer/commits) [![License](badges/orionbelt-semantic-layer-license.svg)](https://github.com/ralforion/orionbelt-semantic-layer/blob/main/LICENSE)
 
 ### [OrionBelt® Ontology Builder](https://github.com/ralforion/orionbelt-ontology-builder)
 
 A Streamlit-based application for building, editing, and managing OWL ontologies — providing a visual interface to define classes, properties, and relationships for semantic data models.
 
-![Version](badges/orionbelt-ontology-builder-version.svg) ![GitHub stars](badges/orionbelt-ontology-builder-stars.svg) ![Top Language](badges/orionbelt-ontology-builder-language.svg) ![Last Commit](badges/orionbelt-ontology-builder-last-commit.svg) ![License](badges/orionbelt-ontology-builder-license.svg)
+[![Version](badges/orionbelt-ontology-builder-version.svg)](https://github.com/ralforion/orionbelt-ontology-builder/releases) [![GitHub stars](badges/orionbelt-ontology-builder-stars.svg)](https://github.com/ralforion/orionbelt-ontology-builder) [![Top Language](badges/orionbelt-ontology-builder-language.svg)](https://github.com/ralforion/orionbelt-ontology-builder) [![Last Commit](badges/orionbelt-ontology-builder-last-commit.svg)](https://github.com/ralforion/orionbelt-ontology-builder/commits) [![License](badges/orionbelt-ontology-builder-license.svg)](https://github.com/ralforion/orionbelt-ontology-builder/blob/main/LICENSE)
 
 ### [OrionBelt® Runner](https://github.com/ralforion/orionbelt-runner)
 
 Run OBML query batches against the OrionBelt® Semantic Layer and emit reports. YAML-defined runs produce self-contained markdown, HTML, or PDF reports with audit-grade YAML run-logs. Built for cron, CI, and scheduled audits.
 
-![Version](badges/orionbelt-runner-version.svg) ![GitHub stars](badges/orionbelt-runner-stars.svg) ![Top Language](badges/orionbelt-runner-language.svg) ![Last Commit](badges/orionbelt-runner-last-commit.svg) ![License](badges/orionbelt-runner-license.svg)
+[![Version](badges/orionbelt-runner-version.svg)](https://github.com/ralforion/orionbelt-runner/releases) [![GitHub stars](badges/orionbelt-runner-stars.svg)](https://github.com/ralforion/orionbelt-runner) [![Top Language](badges/orionbelt-runner-language.svg)](https://github.com/ralforion/orionbelt-runner) [![Last Commit](badges/orionbelt-runner-last-commit.svg)](https://github.com/ralforion/orionbelt-runner/commits) [![License](badges/orionbelt-runner-license.svg)](https://github.com/ralforion/orionbelt-runner/blob/main/LICENSE)
 
 ### [OrionBelt® Chat](https://github.com/ralforion/orionbelt-chat)
 
 Conversational AI interface tying the OrionBelt® platform together. 300+ models via OpenRouter, Anthropic & OpenAI direct, local LLMs via MLX or Ollama. Dual MCP server support with sampling, inline Plotly charts, and Mermaid diagrams.
 
-![Version](badges/orionbelt-chat-version.svg) ![GitHub stars](badges/orionbelt-chat-stars.svg) ![Top Language](badges/orionbelt-chat-language.svg) ![Last Commit](badges/orionbelt-chat-last-commit.svg) ![License](badges/orionbelt-chat-license.svg)
+[![Version](badges/orionbelt-chat-version.svg)](https://github.com/ralforion/orionbelt-chat/releases) [![GitHub stars](badges/orionbelt-chat-stars.svg)](https://github.com/ralforion/orionbelt-chat) [![Top Language](badges/orionbelt-chat-language.svg)](https://github.com/ralforion/orionbelt-chat) [![Last Commit](badges/orionbelt-chat-last-commit.svg)](https://github.com/ralforion/orionbelt-chat/commits) [![License](badges/orionbelt-chat-license.svg)](https://github.com/ralforion/orionbelt-chat/blob/main/LICENSE)
 
 ### [MCP X-Ray](https://github.com/ralforion/mcp-xray)
 
 X-ray your MCP server — token tax, tool confusion, and surface bloat, distilled into one graded report.
 
-![Version](badges/mcp-xray-version.svg) ![GitHub stars](badges/mcp-xray-stars.svg) ![Top Language](badges/mcp-xray-language.svg) ![Last Commit](badges/mcp-xray-last-commit.svg) ![License](badges/mcp-xray-license.svg)
+[![Version](badges/mcp-xray-version.svg)](https://github.com/ralforion/mcp-xray/releases) [![GitHub stars](badges/mcp-xray-stars.svg)](https://github.com/ralforion/mcp-xray) [![Top Language](badges/mcp-xray-language.svg)](https://github.com/ralforion/mcp-xray) [![Last Commit](badges/mcp-xray-last-commit.svg)](https://github.com/ralforion/mcp-xray/commits) [![License](badges/mcp-xray-license.svg)](https://github.com/ralforion/mcp-xray/blob/main/LICENSE)
 
 ### [qvd2parquet](https://github.com/ralforion/qvd2parquet)
 
 A fast command-line converter from Qlik QVD files to Parquet. Preserves real Parquet types instead of stringifying everything, keeps `MONEY` and `FIX` columns as exact decimals, decodes records in parallel, and streams row groups so large files never need to fit in memory.
 
-![Version](badges/qvd2parquet-version.svg) ![GitHub stars](badges/qvd2parquet-stars.svg) ![Top Language](badges/qvd2parquet-language.svg) ![Last Commit](badges/qvd2parquet-last-commit.svg) ![License](badges/qvd2parquet-license.svg)
+[![Version](badges/qvd2parquet-version.svg)](https://github.com/ralforion/qvd2parquet/releases) [![GitHub stars](badges/qvd2parquet-stars.svg)](https://github.com/ralforion/qvd2parquet) [![Top Language](badges/qvd2parquet-language.svg)](https://github.com/ralforion/qvd2parquet) [![Last Commit](badges/qvd2parquet-last-commit.svg)](https://github.com/ralforion/qvd2parquet/commits) [![License](badges/qvd2parquet-license.svg)](https://github.com/ralforion/qvd2parquet/blob/main/LICENSE)
 
 ---
 

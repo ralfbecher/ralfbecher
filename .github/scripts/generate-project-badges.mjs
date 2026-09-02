@@ -4,12 +4,12 @@ const owner = "ralforion";
 const outputDir = "badges";
 
 const projects = [
-  { repo: "orionbelt-analytics", version: true, license: "BSL 1.1" },
-  { repo: "orionbelt-semantic-layer", version: true, license: "BSL 1.1" },
-  { repo: "orionbelt-ontology-builder", version: true, license: "BSL 1.1" },
-  { repo: "orionbelt-runner", version: true, license: "BSL 1.1" },
-  { repo: "orionbelt-chat", version: true, license: "BSL 1.1" },
-  { repo: "mcp-xray", version: true, license: "BSL 1.1" },
+  { repo: "orionbelt-analytics", version: true, license: "BUSL 1.1" },
+  { repo: "orionbelt-semantic-layer", version: true, license: "BUSL 1.1" },
+  { repo: "orionbelt-ontology-builder", version: true, license: "BUSL 1.1" },
+  { repo: "orionbelt-runner", version: true, license: "BUSL 1.1" },
+  { repo: "orionbelt-chat", version: true, license: "BUSL 1.1" },
+  { repo: "mcp-xray", version: true, license: "BUSL 1.1" },
   { repo: "qvd2parquet", version: true, license: "Apache 2.0" },
 ];
 
